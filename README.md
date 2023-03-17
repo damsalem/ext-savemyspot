@@ -14,3 +14,12 @@ The install is complete, the extension can be found by clicking on the puzzle ic
 # Coding
 
 I'm not sure if it is possible to keep the top element on screen when the inspector is opened. I'm going to initially research this with ChatGPT.
+
+## References
+
+These are references I'll need to explore to see if the functionality is feasible
+
+-   [Chrome API Reference](https://developer.chrome.com/docs/extensions/reference/)
+
+-   [Chrome Devtools Panels API](https://developer.chrome.com/docs/extensions/reference/devtools_panels/#method-create)
+-   [Chrome Devtools Inspected Window API](https://developer.chrome.com/docs/extensions/reference/devtools_inspectedWindow/)
