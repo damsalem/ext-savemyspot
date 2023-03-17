@@ -1,0 +1,7 @@
+{
+    "name": "SaveMySpot",
+    "version": "1.0",
+    "description": "Keep your content visible when the Inspector is opened",
+    "manifest_version": 3,
+    "devtools_page": "devtools.html"
+}
